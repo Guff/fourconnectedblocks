@@ -2,8 +2,6 @@ import pygame as pg
 
 pg.init()
 
-pg.key.set_repeat(50)
-
 GRID_WIDTH = 14
 GRID_HEIGHT = 20
 
